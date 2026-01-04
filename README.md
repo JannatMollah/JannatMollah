@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/JannatMollah?logo=github&style=for-
 
 
 ## 🛠️ Tech stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,django,php,laravel,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,vite,npm,vscode,wordpress,cloudflare,figma&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,django,php,laravel,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,vite,npm,vscode,wordpress,cloudflare,figma,bootstrap,git,github,postman,linux&theme=light)]()
 
 ## 🤝 Connect with me
 <p align="left">
