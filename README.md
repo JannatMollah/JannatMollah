@@ -1,5 +1,16 @@
 ## Hi, I'am Jannat Ul Ferdous Mollah 👋
-**Hello**
+## About Me
+Undergraduate **BSc in Computer Science & Engineering** with a strong foundation in **backend development** and **problem solving**.
+
+Experienced in **MERN stack (MongoDB, Express.js, React, Node.js)** and **WordPress development**, with hands-on practice building real-world, scalable web applications.  
+An **ICPC problem-solving enthusiast**, comfortable with **C++** for algorithmic challenges, and **Python** as my preferred language for rapid and clean development.
+
+I focus on writing **clean, maintainable, and efficient code**, with a solid understanding of application logic and system flow.  
+Motivated to grow as a backend engineer and contribute to **high-performance, business-driven software solutions**.
+
+**Actively seeking opportunities** to apply my skills, learn from industry professionals, and deliver measurable impact.
+
+**Code. Create. Innovate.**
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,php,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,laravel,vite,npm,vscode,wordpress,cloudflare,figma&theme=light&perline=12)]()
