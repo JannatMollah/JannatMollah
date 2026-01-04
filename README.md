@@ -20,13 +20,13 @@ Motivated to grow as a backend engineer and contribute to **high-performance, bu
 src="https://img.shields.io/github/followers/JannatMollah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## 🛠️ Skills
-✅ Python <br>
-✅ JavaScript <br>
-✅ C/C++ <br>
-✅ PHP/Wordpress <br>
-✅ React/Next/Node/Express <br>
-✅ HTML/CSS/Tailwind CSS <br> 
-✅ MySQL/Postgres/MongoDB/Supabase <br>
+✅ **Python** <br>
+✅ **JavaScript** <br>
+✅ **C/C++** <br>
+✅ **PHP/Wordpress** <br>
+✅ **React/Next/Node/Express** <br>
+✅ **HTML/CSS/Tailwind CSS** <br> 
+✅ **MySQL/Postgres/MongoDB/Supabase** <br>
 
 
 ## 📊 GitHub Stats
