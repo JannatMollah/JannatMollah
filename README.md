@@ -1,5 +1,6 @@
 ## Hi, I'am Jannat Ul Ferdous Mollah 👋
-## About Me
+
+## 👨‍💻 About Me
 Undergraduate **BSc in Computer Science & Engineering** with a strong foundation in **backend development** and **problem solving**.
 
 Experienced in **MERN stack (MongoDB, Express.js, React, Node.js)** and **WordPress development**, with hands-on practice building real-world, scalable web applications.  
@@ -12,10 +13,30 @@ Motivated to grow as a backend engineer and contribute to **high-performance, bu
 
 **Code. Create. Innovate.**
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,php,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,laravel,vite,npm,vscode,wordpress,cloudflare,figma&theme=light&perline=12)]()
+* 🌐 See my portfolio at [jannatmollah.com](http://jannatmollah.com)
+* 📫 You can contact me at [jannatmollah7@gmail.com](mailto:jannatmollah7@gmail.com)
 
-## Connect with me
+## 🛠️ Skills
+✅ Python <br>
+✅ JavaScript <br>
+✅ C/C++ <br>
+✅ PHP/Wordpress <br>
+✅ React/Next/Node/Express <br>
+✅ HTML/CSS/Tailwind CSS <br> 
+✅ MySQL/Postgres/MongoDB/Supabase <br>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatMollah&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatMollah&layout=compact&langs_count=8&theme=default)
+
+
+## 🛠️ Tech stack
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,django,php,laravel,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,vite,npm,vscode,wordpress,cloudflare,figma&theme=light)]()
+
+## 🤝 Connect with me
 <p align="left">
 <!--Linkedin-->
 <a href="https://www.linkedin.com/in/JannatMollah777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
@@ -32,3 +53,6 @@ Motivated to grow as a backend engineer and contribute to **high-performance, bu
 <!--Discord-->
 <a href="https://discord.com/users/JannatMollah777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /></a>
 </p>
+
+
+
