@@ -2,7 +2,7 @@
 **Hello**
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,php,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,laravel,vite,npm,vscode,wordpress,&theme=light&perline=11)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,php,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,laravel,vite,npm,vscode,wordpress,cloudflare,figma&theme=light&perline=12)]()
 
 ## Connect with me
 <p align="left">
