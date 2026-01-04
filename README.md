@@ -13,8 +13,11 @@ Motivated to grow as a backend engineer and contribute to **high-performance, bu
 
 **Code. Create. Innovate.**
 
-* 🌐 See my portfolio at [jannatmollah.com](http://jannatmollah.com)
-* 📫 You can contact me at [jannatmollah7@gmail.com](mailto:jannatmollah7@gmail.com)
+* 🌐 My portfolio at [jannatmollah.com](http://jannatmollah.com)
+* 📫 Contact me at [jannatmollah7@gmail.com](mailto:jannatmollah7@gmail.com)
+
+<a href="https://www.github.com/JannatMollah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JannatMollah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## 🛠️ Skills
 ✅ Python <br>
