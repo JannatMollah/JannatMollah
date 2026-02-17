@@ -32,9 +32,10 @@ src="https://img.shields.io/github/followers/JannatMollah?logo=github&style=for-
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatMollah&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatMollah&layout=compact&langs_count=8&theme=default)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JannatMollah&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatMollah&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatMollah&layout=compact&langs_count=8&theme=default) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=JannatMollah&theme=nightowl&hide_border=true&cache_seconds=86400)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JannatMollah&theme=nightowl&radius=10)
 
 ## 🛠️ Tech stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,django,php,laravel,react,next,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,supabase,firebase,vite,npm,vscode,wordpress,cloudflare,figma,bootstrap,git,github,postman,linux&theme=light)]()
